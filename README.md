@@ -1,25 +1,20 @@
 # DSA in Python
 
-This repository contains my solutions to Data Structures and Algorithms problems from LeetCode, organized using the NeetCode roadmap.
+My Data Structures & Algorithms practice repository.
+
+## Platform
+- LeetCode
+
+## Roadmap
+- NeetCode 150
+
+## Language
+- Python 3
 
 ## Goals
+- Build consistent problem-solving skills
+- Master interview patterns
+- Prepare for software and AI internships
 
-- Strengthen problem solving skills
-- Master common DSA patterns
-- Build a consistent coding habit
 
-## Progress
-
-- Language: Python
-- Roadmap: NeetCode 150
-- Platform: LeetCode
-
-Topics:
-- Arrays & Hashing
-- Two Pointers
-- Sliding Window
-- Stack
-- Binary Search
-- Trees
-- Graphs
-- Dynamic Programming
+Problems are automatically synchronized from my NeetCode workflow and submitted on LeetCode.
